@@ -1,0 +1,6 @@
+framework module Pods_PhoneNumberAuthMap {
+  umbrella header "Pods-PhoneNumberAuthMap-umbrella.h"
+
+  export *
+  module * { export * }
+}
